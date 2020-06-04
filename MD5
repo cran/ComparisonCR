@@ -1,0 +1,12 @@
+1e8d9601b4a38f88a6c25092d60b3224 *DESCRIPTION
+30826728bee580055b80778eafcc2685 *NAMESPACE
+fde6cc80506d835aa2de022ac1aa868a *R/ComparisonCR.R
+cc5fb13164bcc025a3bfe214bd6caec0 *data/crossdata.rda
+7e6aee6b4581f855d589e64be8073453 *man/ABC.Rd
+a5b4ba5e3761273b9da379ae21c4cfc2 *man/ABC.comb.Rd
+003caeb4a9ad2e40a4b4a6d7375d3934 *man/ABC.perm.Rd
+5b4b535ccb49c75f185fd710b4a7943e *man/ABC.plot.Rd
+6b6a438ef7dc315ee4413c16c3cc979f *man/ABC.ts.Rd
+1c2acebd502a8110db92f14a742f66b2 *man/ComparisonCR-package.Rd
+da42c1dc0f1bb04d6e95ba25b23a8a4e *man/crossdata.Rd
+339946addecc80527b7ee1320afac476 *man/fixpoint.Rd
